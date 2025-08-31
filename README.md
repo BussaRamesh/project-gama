@@ -94,5 +94,5 @@ Real-time data collection from IoT-based air sensors.
 
 👩‍💻 Author
 
-Developed by B THARUN REDDY
-📧 Contact: your.email@example.com
+Developed by BUSSA RAMESH
+📧 Contact: rameshbussa1438@gmail.com
